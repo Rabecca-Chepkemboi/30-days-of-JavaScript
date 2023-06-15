@@ -17,7 +17,6 @@ console.log(sumAllNumbers(23, 76, 12, 66));
 console.log(sumAllNumbers(13, 14, 15, 16));
 
 
-
 // 3. Write a JavaScript function expression named filterEvenNumbers that takes an array 
 // of numbers as a parameter and returns a new array containing only the even
 // numbers from the original array.
